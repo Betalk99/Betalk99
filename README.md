@@ -51,4 +51,11 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=betalk99&show_icons=true&locale=en&layout=compact" alt="betalk99" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=betalk99&show_icons=true&locale=en" alt="betalk99" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=betalk99&" alt="betalk99" /></p>
+
+
 ###
